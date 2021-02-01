@@ -31,7 +31,7 @@ Data is successfully gathered:
 
 * Each piece of data is imported into a separate pandas DataFrame at first.
 
-#### Assessing Data
+### Assessing Data
 
 Two types of assessment are used:
 
